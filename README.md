@@ -27,3 +27,7 @@ Este subdirectorio contiene la implementación del simulador creado en PyTorch, 
 
 ## [Resultados](./Resultados)
 Este subdirectorio contiene los resultados obtenidos de las pruebas realizadas con ambos entornos.
+
+En los resultados de los pruebas en H2O, se ha almacenado tanto un fichero ".csv" con la predicción realizada por el modelo, como una imagen ".png" de una gráfica de la pérdida en función de los epochs.
+
+Por otro lado, en los resultados de PyTorch, se han reunido imágenes ".png" que muestran una gráfica con la pérdida en función de los epochs y otra gráfica con el coeficiente de determinación. 
