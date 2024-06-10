@@ -3,7 +3,7 @@
 Este proyecto contiene la implementación de un simulador de Redes Neuronales implementado con PyTorch, desarrollado tanto en un contexto, como para un fin académico.
 
 
-[alt-text]<h2> [alt-text]Datasets </h2>
+<h2>[Datasets](https://github.com/VictorBouhaben/Supervised-learning-using-Neural-Networks/tree/main/Datasets) </h2>
 Contiene los ficheros con los conjuntos de datos o datasets necesarios para el entrenamiento del modelo.
 
 [alt-text]<h2>Fuentes </h2>
